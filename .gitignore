@@ -1,5 +1,5 @@
 # Ignore everything
-/*
+
 
 !.gitignore
 !.gitpod.yml
@@ -17,3 +17,4 @@
 !/.learn/resets/**
 !/.learn/assets
 !/.learn/assets/**
+.theia
